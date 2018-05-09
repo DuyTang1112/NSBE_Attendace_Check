@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-NSBE_Attendance",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
